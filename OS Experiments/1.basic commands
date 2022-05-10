@@ -1,0 +1,19 @@
+1. pwd command
+2. cd command
+cd .. (with two dots) to move one directory up
+cd to go straight to the home folder
+cd- (with a hyphen) to move to your previous directory
+3. ls command
+ls -R will list all the files in the sub-directories as well
+ls -a will show the hidden files
+ls -al will list the files and directories with detailed information like the permissions, size, owner, etc.
+4. cat command
+cat > filename creates a new file
+cat filename1 filename2>filename3 joins two files (1 and 2) and stores the output of them in a new file (3)
+to convert a file to upper or lower case use, cat filename | tr a-z A-Z >output.txt
+5. cp command
+6. mv command
+7. mkdir command
+8. rmdir command
+9. rm command
+10. sudo command
